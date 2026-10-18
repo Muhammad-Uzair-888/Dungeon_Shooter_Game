@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Dungeon Shooter.sln"
+    "dotnet.defaultSolution": "Dungeon_Shooter_Game.sln"
 }
